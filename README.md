@@ -7,6 +7,7 @@
 
 ### 🔗 Project Links
 Solution: [Open](https://www.frontendmentor.io/solutions/responsividade-criada-usando-max-width-DHPMAIXU9c)
+
 Live Site: [Open](https://deluxe-twilight-7a2724.netlify.app/)
 
 ### ✍ My Process
